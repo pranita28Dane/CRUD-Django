@@ -1,4 +1,4 @@
-# Project Title = Simple CRUD In PYTHON Using Django.
+# Project Title = Simple CRUD In Python Using Django.
 
 ## Project Description :
 
@@ -14,8 +14,8 @@
 ## Tech Stack used:
                       1 python, 
                       2 Django, 
-                      3 HTML5, 
-                      4 CSS3.
+                      3 HTML5. 
+             
                       
 # || ** Project Demo Image ** ||  
 
