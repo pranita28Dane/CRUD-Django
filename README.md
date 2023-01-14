@@ -1,4 +1,4 @@
-# Project Title = Todo List In Python With Django Framework
+# Project Title = Todo List In Python With Django.
 
 ## Project Description :
 
