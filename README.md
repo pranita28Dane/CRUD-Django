@@ -20,4 +20,4 @@
 
 
 
-<img src="https://github.com/pranita28Dane/CRUD-Django/blob/dev/crud%20django.png">
+<img src="https://github.com/pranita28Dane/CRUD-Django/blob/dev/crud%20django.png" width="900" height= "550">
