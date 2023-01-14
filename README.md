@@ -1,14 +1,15 @@
-# Project Title = Todo List In Python With Django.
+# Project Title = Simple CRUD In PYTHON Using Django.
 
 ## Project Description :
 
-- This Todo list is a simple application developed using python Django, HTML, and CSS. This website provides a simple and interactive interface for end-users for adding their To-dos and manage them.
+-  Simple CRUD application is purely written in Python using Django Framework. This is a simple web based project which is very easy to understand and use.
 
--  The users can add their To-do just by clicking the add button. Then, the system will display them on the home screen. The user can also edit, delete or cross the list as per their wish.
+- Talking about the system, it contains all the required functions which include adding, viewing, deleting and updating records.
 
-- The system is built fully in Django Framework in back-end and HTML, CSS in front-end. It has a full-featured user interface with all the functionalities of a To-do website.
+-  While adding a record of a person, he/she has to provide the first name and last name. The user can also edit the record list if he/she wants to. And also the user can easily delete any records. The system shows all the records in a list view.
 
--  It also provides a separate edit section for the To-dos, added to the system in case of any uneven activities. They can also delete any items and cross off the task if they are accomplished.
+-  This simple web-based CRUD application provides the simplest management of small records. In short, this project mainly focuses only on CRUD.
+
 
 ## Tech Stack used:
                       1 python, 
